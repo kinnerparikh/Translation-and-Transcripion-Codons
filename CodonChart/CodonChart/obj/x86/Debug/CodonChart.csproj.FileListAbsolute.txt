@@ -1,0 +1,6 @@
+/Users/kinnerparikh/Projects/CodonChart/CodonChart/obj/x86/Debug/CodonChart.csprojAssemblyReference.cache
+/Users/kinnerparikh/Projects/CodonChart/CodonChart/obj/x86/Debug/CodonChart.csproj.CoreCompileInputs.cache
+/Users/kinnerparikh/Projects/CodonChart/CodonChart/bin/Debug/CodonChart.exe
+/Users/kinnerparikh/Projects/CodonChart/CodonChart/bin/Debug/CodonChart.pdb
+/Users/kinnerparikh/Projects/CodonChart/CodonChart/obj/x86/Debug/CodonChart.exe
+/Users/kinnerparikh/Projects/CodonChart/CodonChart/obj/x86/Debug/CodonChart.pdb
